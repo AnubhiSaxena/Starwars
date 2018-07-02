@@ -1,2 +1,2 @@
 # Starwars
-Game
+A game works on scratch (Programming concept)
